@@ -23,6 +23,7 @@
 
 ```bash
 sudo bash node-tuning.sh            # интерактивное меню
+sudo bash node-tuning.sh about      # краткая справка: что проверяет и делает скрипт
 sudo bash node-tuning.sh check      # только проверка
 sudo bash node-tuning.sh tune -y    # тюнинг без вопросов
 sudo bash node-tuning.sh rollback   # откат
